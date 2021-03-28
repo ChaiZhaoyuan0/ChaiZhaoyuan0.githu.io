@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaizhaoyuan0.github.io</id>
     <title>0K&apos;s Blog</title>
-    <updated>2021-03-28T12:12:48.566Z</updated>
+    <updated>2021-03-28T12:13:14.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaizhaoyuan0.github.io"/>
     <link rel="self" href="https://chaizhaoyuan0.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2021, 0K&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[《边界》]]></title>
-        <id>https://chaizhaoyuan0.github.io/post/《边界》/</id>
-        <link href="https://chaizhaoyuan0.github.io/post/《边界》/">
+        <id>https://chaizhaoyuan0.github.io/《边界》/</id>
+        <link href="https://chaizhaoyuan0.github.io/《边界》/">
         </link>
         <updated>2021-01-06T14:12:00.000Z</updated>
         <content type="html"><![CDATA[<pre><code>  我喜欢上“边界”这个词，源于美国反乌托邦小说《授者》。我也开始警觉自省，环视四周，果然，稀松的空气中有一条“边界”。我能感受到它。
@@ -45,8 +45,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[不务正业]]></title>
-        <id>https://chaizhaoyuan0.github.io/post/不务正业/</id>
-        <link href="https://chaizhaoyuan0.github.io/post/不务正业/">
+        <id>https://chaizhaoyuan0.github.io/不务正业/</id>
+        <link href="https://chaizhaoyuan0.github.io/不务正业/">
         </link>
         <updated>2020-09-06T08:38:51.000Z</updated>
         <content type="html"><![CDATA[<h2 id="不务正业">不务正业？</h2>
@@ -206,8 +206,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Git安装教程]]></title>
-        <id>https://chaizhaoyuan0.github.io/post/Git安装教程/</id>
-        <link href="https://chaizhaoyuan0.github.io/post/Git安装教程/">
+        <id>https://chaizhaoyuan0.github.io/Git安装教程/</id>
+        <link href="https://chaizhaoyuan0.github.io/Git安装教程/">
         </link>
         <updated>2020-08-18T13:40:14.000Z</updated>
         <content type="html"><![CDATA[<h2 id="git安装教程">Git安装教程</h2>
@@ -265,8 +265,8 @@ Windows搜索命令提示符，然后以管理员身份运行<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
-        <id>https://chaizhaoyuan0.github.io/post/hello-world/</id>
-        <link href="https://chaizhaoyuan0.github.io/post/hello-world/">
+        <id>https://chaizhaoyuan0.github.io/hello-world/</id>
+        <link href="https://chaizhaoyuan0.github.io/hello-world/">
         </link>
         <updated>2020-08-13T01:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -291,8 +291,8 @@ Windows搜索命令提示符，然后以管理员身份运行<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://chaizhaoyuan0.github.io/post/hello-gridea/</id>
-        <link href="https://chaizhaoyuan0.github.io/post/hello-gridea/">
+        <id>https://chaizhaoyuan0.github.io/hello-gridea/</id>
+        <link href="https://chaizhaoyuan0.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
